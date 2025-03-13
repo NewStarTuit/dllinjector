@@ -70,10 +70,6 @@ If the injection fails, the program will return exit code 1 and display detailed
 
 This tool is provided for educational and legitimate software testing purposes only. Unauthorized modification of software may violate terms of service or local laws. The user assumes all responsibility for how this tool is used.
 
-## License
-
-This software is released under the MIT License.
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
